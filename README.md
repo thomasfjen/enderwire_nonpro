@@ -9,7 +9,6 @@ And DarkDogs Rev2 https://github.com/boubounokefalos/Ender_SW/tree/Rev.2
 - Modified Skirt to hold PSU.
 - Modified Rear Grill to have some room for belt tightening.
 - Located of Pi to the front.
-- Panels not incluced yet, may come in the future.
-- Still thinking of way to connect the y-axis to the front grill.
 
-![Home](enderwire_non_pro.png)
+![Home](enderwire_non_pro_0.2.png)
+![Home](enderwire_Housing.png)
