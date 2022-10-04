@@ -2,7 +2,7 @@
 
 Based on Gizzles Y-Axis https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire
 STLs: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire/STL/Y-ASSEMBLY
-Replace Y-Idler-Bottom with my y_idler_lower_part and use front_y_grill_connection to connect idler to front grill.
+ - Replace Y-Idler-Bottom with my y_idler_lower_part and use front_y_grill_connection to connect idler to front grill.
 
 And DarkDogs Rev2 https://github.com/boubounokefalos/Ender_SW/tree/Rev.2
 STLs: https://github.com/boubounokefalos/Ender_SW/tree/Rev.2/STLS
