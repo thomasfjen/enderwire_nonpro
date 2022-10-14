@@ -11,7 +11,8 @@ STLs: https://github.com/boubounokefalos/Ender_SW/tree/Rev.2/STLS
   Works also as PSU Holder (No need for PS_4040_Slide_Mount.stl)
 - Use my upper_deck (for both sides) and rear_panel
 
-
+There are mounts for the original PSU, also use the extension_left_a_orig_psu.stl then.
+It is advisable to not use a lower panel then(or create a cutout), as the psu is very close to the panel.
 
 
 
