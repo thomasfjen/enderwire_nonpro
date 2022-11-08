@@ -18,7 +18,9 @@ It is advisable to not use a lower panel then(or create a cutout), as the psu fa
 
 Overview of changes:
 
-- Y-axis extrusion moved forward with replacing the bolts with shorter ones and using t-nuts in the extrusion.
+- Y-axis extrusion moved forward with replacing the M5 bolts with shorter ones and using t-nuts in the extrusion.
+  35mm bolts are bit too long depending on how the extrusions are machined, so use some washers under the bolt head till the bolts 
+  does not hit the bottom of the extrusion.
 - Modified Skirt to hold PSU, added Parts when using original PSU.
 - Modified Rear Grill to have some room (a few Millimeters) for belt tightening.
 - Located of Pi to the front.
