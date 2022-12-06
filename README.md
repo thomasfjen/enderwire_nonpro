@@ -1,5 +1,7 @@
 # enderwire_nonpro
 
+This is a collection of parts to fit the Gizzle Y-Axis for the Standard Ender with 2040 Y Extrusion to fit the DarkDog Rev2 Ender_SW.
+
 Based on Gizzles Y-Axis https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire
 STLs: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire/STL/Y-ASSEMBLY
  - Replace "Y-Idler-Bottom" with my "y_idler_lower_part" and use "front_y_grill_connection" to connect idler to front grill.
@@ -26,6 +28,11 @@ Overview of changes:
 - Located of Pi to the front.
 - Connected front idler mount to frame.
 - There is no belt tensioner, use the rear motor mount to tension the belt (Same as Switchwire)
+
+TBD:
+-DXF Files for Top Panels and Back panel
+-Create Table which files replace which files for better understanding
+
 
 ![Home](enderwire_non_pro_0.2.png)
 ![Home](enderwire_Housing.png)
