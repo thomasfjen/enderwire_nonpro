@@ -30,7 +30,7 @@ Overview of changes:
 - There is no belt tensioner, use the rear motor mount to tension the belt (Same as Switchwire)
 
 TBD:
--DXF Files for Top Panels and Back panel
+
 -Create Table which files replace which files for better understanding
 
 
