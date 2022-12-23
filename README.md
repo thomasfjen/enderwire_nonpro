@@ -6,9 +6,8 @@ Based on Gizzles Y-Axis https://github.com/VoronDesign/VoronUsers/tree/master/pr
 
 And DarkDogs Rev2 https://github.com/boubounokefalos/Ender_SW/tree/Rev.2
 
-There are mounts for the original PSU, also use the extension_left_a_orig_psu.stl then instead.
-With original PSU is the thick non-meanwell psu meant.
-It is advisable to not use a lower panel then(or create a cutout), as the psu fan is very close to the panel.
+There are mounts for the original PSU, the thick non-meanwell one.
+It is advisable to not use a lower panel then (or create a cutout), as the psu fan is very close to the panel.
 
 
 Overview of changes:
