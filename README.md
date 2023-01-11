@@ -21,6 +21,14 @@ Overview of changes:
 - Connected front idler mount to frame.
 - There is no belt tensioner, use the rear motor mount to tension the belt (Same as Switchwire)
 
+Use these files for the Y-Axis: 
+https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire/STL/Y-ASSEMBLY 
+Rest of files, basically everything except the Y-Axis:
+https://github.com/boubounokefalos/Ender_SW/tree/Rev.2/STLS
+
+Watch the Table down below to replace files to make these two repos compatible.
+
+
 | Part                                       | Original              | Replace with:                                   | Comment:                                                   |
 |--------------------------------------------|-----------------------|-------------------------------------------------|------------------------------------------------------------|
 | Parts form Y-Axis Gizzle Repo                          |                       |                                                 |                                                            |
