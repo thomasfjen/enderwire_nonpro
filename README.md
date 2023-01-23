@@ -1,6 +1,6 @@
 # enderwire_nonpro
 
-This is a collection of parts to fit the Gizzle Y-Axis for the Standard Ender with 2040 Y Extrusion to fit the DarkDog Rev2 Ender_SW.
+This is a collection of parts to fit the Gizzle Y-Axis for the Standard Ender with 2040 Y Extrusion on the DarkDog Rev2 Ender_SW.
 
 Based on Gizzles Y-Axis https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire
 
