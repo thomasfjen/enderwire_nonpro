@@ -27,6 +27,10 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-
 Rest of STL-Files, basically everything except the Y-Axis:
 https://github.com/boubounokefalos/Ender_SW/tree/Rev.2/STLS
 
+You can print this file as drilling guide for bed carriage:
+https://github.com/kevinakasam/Y_Axis_RailMod_Ender3/blob/main/STL/Single/1_single_rail_drill_guide.stl
+
+
 Watch the Table down below to replace files to make these two repos compatible.
 
 
