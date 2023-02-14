@@ -24,8 +24,8 @@ Overview of changes:
 Use these STL-Files for the Y-Axis: 
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire/STL/Y-ASSEMBLY 
 
-Rest of STL-Files, basically everything except the Y-Axis:
-https://github.com/boubounokefalos/Ender_SW/tree/Rev.2/STLS
+Rest of STL-Files, basically everything except the Y-Axis Folder (Gantry -> Y-Axis Folder) and my files (see table down below)
+https://github.com/boubounokefalos/Ender_SW/tree/main/STLS
 
 You can print this file as drilling guide for bed carriage:
 https://github.com/kevinakasam/Y_Axis_RailMod_Ender3/blob/main/STL/Single/1_single_rail_drill_guide.stl
