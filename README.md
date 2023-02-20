@@ -27,7 +27,7 @@ https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-
 Rest of STL-Files, basically everything except the Y-Axis Folder (Gantry -> Y-Axis Folder) and my files (see table down below)
 https://github.com/boubounokefalos/Ender_SW/tree/main/STLS
 
-You can print the drilling guide from this for drilling for bed carriage:
+You can print the drilling guide from this for drilling the bed carriage:
 https://www.thingiverse.com/thing:3530419/files
 
 
