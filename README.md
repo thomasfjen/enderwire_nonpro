@@ -38,6 +38,7 @@ Watch the Table down below to replace files to make these two repos compatible.
 |--------------------------------------------|-----------------------|-------------------------------------------------|------------------------------------------------------------|
 | Parts form Y-Axis Gizzle Repo                          |                       |                                                 |                                                            |
 | Y-Axis Front Idler                         | Y-Idler-Bottom        | y_idler_lower_part and front_y_grill_connection | Adds a connection to the Front Grill                       |
+| Belt Anchor                                | Y-Belt_Anchor_x1      | belt_anchor_m5                             | Uses the original screws and nuts from the wheels to secure the anchor the bed carriage               |
 | Parts from DarkDogs (boubounokefalos) Rev2 |                       |                                                 |                                                            |
 | Grill                                      | rear_grill_middle     | rear_grill_middle_nonpro                        |                                                            |
 | Extension/Side Skirt                       | rear_extention_left_a | rear_extention_left_a_psu                       | Also replaces the PS_4040_Slide_Mount as mount for the psu |
