@@ -17,9 +17,9 @@ Overview of changes:
   does not hit the bottom of the extrusion.
 - Modified Skirt to hold PSU, added Parts when using original PSU.
 - Modified Rear Grill to have some room (a few Millimeters) for belt tightening.
-- Located of Pi to the front.
-- Connected front idler mount to frame.
-- There is no belt tensioner, use the rear motor mount to tension the belt (Same as Switchwire)
+- Located Pi to the front (there less room because of the vertical stepper).
+- Connected front idler mount to grill.
+- There is no belt tensioner, use the rear motor mount to tension the belt (same procedure as Switchwire)
 
 Use these STL-Files for the Y-Axis: 
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire/STL/Y-ASSEMBLY 
@@ -30,10 +30,11 @@ https://github.com/boubounokefalos/Ender_SW/tree/main/STLS
 You can print the drilling guide from this for drilling the bed carriage:
 https://www.thingiverse.com/thing:3530419/files
 
-Or use the files of the drill-less carriage adapter, you may have to use shorter bed springs/silicone spacers tho, as bed is raised about 8mm and can interfere with
-lower z rail stops.
+Or use the files of the drill-less carriage adapter, you may have to use shorter bed springs/silicone spacers tho, as the bed is raised about 8mm and can interfere with the lower z rail stops, there are smaller z_endstop files in the folder to reduce the problem as best as possible.
 
-You may want to use the optimized motor moutns: https://github.com/strayr/SWE3-motor-mounts
+
+
+You may want to use the optimized motor mounts: https://github.com/strayr/SWE3-motor-mounts
 They add a third screw to the frame to avoid tilting of the assembly.
 
 
