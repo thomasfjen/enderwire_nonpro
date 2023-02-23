@@ -30,6 +30,12 @@ https://github.com/boubounokefalos/Ender_SW/tree/main/STLS
 You can print the drilling guide from this for drilling the bed carriage:
 https://www.thingiverse.com/thing:3530419/files
 
+Or use the files of the drill-less carriage adapter, you may have to use shorter bed springs/silicone spacers tho, as bed is raised about 8mm and can interfere with
+lower z rail stops.
+
+You may want to use the optimized motor moutns: https://github.com/strayr/SWE3-motor-mounts
+They add a third screw to the frame to avoid tilting of the assembly.
+
 
 Watch the Table down below to replace files to make these two repos compatible.
 
