@@ -49,7 +49,7 @@ Watch the Table down below to replace files to make these two repos compatible.
 | Parts from DarkDogs (boubounokefalos) Rev2 |                       |                                                 |                                                            |
 | Grill                                      | rear_grill_middle     | rear_grill_middle_nonpro                        |                                                            |
 | Extension/Side Skirt                       | rear_extention_left_a | rear_extention_left_a_psu                       | Also replaces the PS_4040_Slide_Mount as mount for the psu |
-| Deck Upper Side                            | deck_panel_left.dxf and [...] right.dxf| deck_upper_non_pro                              | Also available as dxf                                      |
+| Deck Upper Side                            | deck_panel_left.dxf and [...] right.dxf| deck_upper_non_pro             | Also available as dxf, Make sure you get it mirrored when getting cut and the material has two surfaces structues                                     |
 | Rear Panel                                 | rear_panel            | rear_panel_non_pro                              | Also available as dxf                                      |
 | If using the original thick PSU:           |                       |                                                 |                                                            |
 | PSU Mount                                  | PS_4040_mount_x2      | 2x orig_psu_mount                               |                                                            |
