@@ -58,5 +58,4 @@ Watch the Table down below to replace files to make these two repos compatible.
 
 
 
-![Home](enderwire_non_pro_0.2.png)
-![Home](enderwire_Housing.png)
+![Home](enderwire_nonpro.png)
