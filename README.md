@@ -58,3 +58,7 @@ Watch the Table down below to replace files to make these two repos compatible.
 
 
 ![Home](enderwire_nonpro.png)
+
+If there are any questions/erros you can ping me in the ender_conversion_chat of the voron discord.
+Cheers! 
+
