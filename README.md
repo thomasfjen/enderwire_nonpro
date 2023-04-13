@@ -1,4 +1,4 @@
-# enderwire_nonpro
+# Parts Collection
 
 This is a collection of parts to fit the Gizzle Y-Axis for the Standard Ender with 2040 Y Extrusion on the DarkDog Rev2 Ender_SW.
 
@@ -62,3 +62,8 @@ Watch the Table down below to replace files to make these two repos compatible.
 If there are any questions/erros you can ping me in the ender_conversion_chat of the voron discord.
 Cheers! 
 
+# BOM 
+RobotRogue did a great job creating a BOM for the Conversion: 
+https://github.com/RobotRogue/Enderwire_Docs
+
+For the Non-Pro you need one less linear rail (4 instead of 5).
