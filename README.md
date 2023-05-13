@@ -54,7 +54,7 @@ Watch the Table down to see which files replace the DarkDogs files:
 
 
 
-![Home](enderwire_nonpro_with_tensioner)
+![Home](enderwire_nonpro_with_tensioner.png)
 
 If there are any questions/erros you can ping me in the ender_conversion_chat of the voron discord.
 Cheers! 
