@@ -41,17 +41,17 @@ They add a third screw to the frame to avoid tilting of the assembly.
 Watch the Table down to see which files replace the DarkDogs files:
 # Table of Parts to use instead of DarkDog files
 
-| Part                                       | Original              | Replace with:                                   | Comment:                                                   |
-|--------------------------------------------|-----------------------|-------------------------------------------------|------------------------------------------------------------|
-| Grill                                      | rear_grill_middle     | rear_grill_middle_nonpro                        |                                                            |
-| Extension/Side Skirt                       | rear_extention_left_a | rear_extention_left_a_psu                       | Also replaces the PS_4040_Slide_Mount as mount for the psu |
-| Deck Upper Side                            | deck_panel_left.dxf and [...] right.dxf| deck_upper_non_pro             | Also available as dxf, Make sure you get it mirrored when getting cut if the material has two surface finishes (eg. glossy and structured)
-| Rear Panel                                 | rear_panel            | rear_panel_non_pro                              | Also available as dxf                                      |
-|--------------------------------------------|-----------------------|-------------------------------------------------|------------------------------------------------------------|
-| If using the original thick PSU:           |                       |                                                 |                                                            |
-|--------------------------------------------|-----------------------|-------------------------------------------------|------------------------------------------------------------|
-| PSU Mount                                  | PS_4040_mount_x2      | 2x orig_psu_mount                               |                                                            |
-| Extension:                                 | rear_extention_left_a | extension_left_a_orig_psu                       |                                                            |
+| Part                                       | Original              | Replace with:                         | Comment:                                                   |
+|--------------------------------------------|-----------------------|---------------------------------------|------------------------------------------------------------|
+| Grill                                      | rear_grill_middle     | rear_grill_middle_nonpro              | That part unfortunately needs support for the middle part  |
+| Extension/Side Skirt                       | rear_extention_left_a | rear_extention_left_a_psu             | Also replaces the PS_4040_Slide_Mount as mount for the psu |
+| Deck Upper Side                            | deck_panel_left.dxf and [...] right.dxf| deck_upper_non_pro   | Also available as dxf, Make sure you get it mirrored when getting cut if the material has two surface finishes (eg. glossy and structured)
+| Rear Panel                                 | rear_panel            | rear_panel_non_pro                    | Also available as dxf                                      |
+|--------------------------------------------|-----------------------|---------------------------------------|------------------------------------------------------------|
+| If using the original thick PSU:           |                       |                                       |                                                            |
+|--------------------------------------------|-----------------------|---------------------------------------|------------------------------------------------------------|
+| PSU Mount                                  | PS_4040_mount_x2      | 2x orig_psu_mount                     |                                                            |
+| Extension:                                 | rear_extention_left_a | extension_left_a_orig_psu             |                                                            |
 
 
 
