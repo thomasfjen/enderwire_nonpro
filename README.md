@@ -30,7 +30,7 @@ It is advisable to not use a lower panel then (or create a cutout), as the psu f
 Majority of STL-Files are still from the DarkDog Conversion (boubounokefalos), basically everything except the Y-Axis Folder (Gantry -> Y-Axis Folder) and a few changed files (See table below)
 https://github.com/boubounokefalos/Ender_SW/tree/main/STLS
 
-You can use drill-less carriage adapter as drill template or simply use the drill-less files.
+You can use drill-less carriage adapter as drill template for mounting the linear rail carriage and chain mount to the bed plate or simply use the drill-less files.
 You may have to use shorter bed springs/silicone spacers then, as the bed is raised about 8mm and can interfere with the lower z rail stops. There are smaller z_endstop files in the folder to reduce the problem as best as possible.
 
 
