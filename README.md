@@ -37,6 +37,12 @@ You may have to use shorter bed springs/silicone spacers then, as the bed is rai
 You may want to use the optimized motor mounts: https://github.com/strayr/SWE3-motor-mounts
 They add a third screw to the frame to avoid tilting of the assembly.
 
+As it was pretty expensive to source a keybak here in germany i used a mod to use a cheap door puller from aliexpress.
+The 800gr version works great for me.
+Door puller: https://www.aliexpress.com/item/1005001859337166.html 
+
+Mount: https://github.com/kanawati975/Voron_Switchwire/tree/main/Key-Bak
+
 
 Watch the Table down to see which files replace the DarkDogs files:
 # Table of Parts to use instead of DarkDog files
