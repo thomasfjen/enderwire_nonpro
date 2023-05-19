@@ -23,6 +23,8 @@ It is advisable to not use a lower panel then (or create a cutout), as the psu f
 - Modified Rear Grill make room for the Y Motor (Support is needed for this part)
 - Located Pi to the front (less room in the back because of the vertical stepper), but you can get creative with electronics mounting/layout.
 - Added a Y-Belt-Tensioner to the idler, similiar to DarkDogs desgin but completely redesigned to fit the 2040 extrusion and belt orientation
+  You need to tap a M5 thread into the 2040 Y-Extrusion to mount the Y-Belt-tensioner. I simply used a cordless power drill and let the screw tap the thread itself since the aluminium is pretty soft.
+  If you have a M5 Tap onhand using that is clearly the better method!
 
 
 Majority of STL-Files are still from the DarkDog Conversion (boubounokefalos), basically everything except the Y-Axis Folder (Gantry -> Y-Axis Folder) and a few changed files (See table below)
