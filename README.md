@@ -49,7 +49,6 @@ Watch the Table down to see which files replace the DarkDogs files:
 
 | Part                                       | Original              | Replace with:                         | Comment:                                                   |
 |--------------------------------------------|-----------------------|---------------------------------------|------------------------------------------------------------|
-| Grill                                      | rear_grill_middle     | rear_grill_middle_nonpro              | That part unfortunately needs support for the middle part  |
 | Extension/Side Skirt                       | rear_extention_left_a | rear_extention_left_a_psu             | Also replaces the PS_4040_Slide_Mount as mount for the psu |
 | Deck Upper Side                            | deck_panel_left.dxf and [...] right.dxf| deck_upper_non_pro   | Also available as dxf, Make sure you get it mirrored when getting cut if the material has two surface finishes (eg. glossy and structured)
 | Rear Panel                                 | rear_panel            | rear_panel_non_pro                    | Also available as dxf                                      |
