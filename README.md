@@ -2,7 +2,7 @@
 
 This is a collection of parts to make the DarkDog Rev2 Ender_SW compatible with the 2040 Y Extrusion of the original Ender.
 
-Based on Gizzles Y-Axis https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Gizzle/ender-3_(pro)_switchwire
+Based on Gizzles Y-Axis https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/Gizzle/ender-3_pro_switchwire
   - The Motormount and chainmount are untouched the rest is redesigned for easier mounting with existing ender hardware and also added a tensioner for the belt.
   - There is an option to not drill the bed carriage plate and use the drillless bed carriage adapter (Folder Y-Axis -> Drilless Carriage) 
 
